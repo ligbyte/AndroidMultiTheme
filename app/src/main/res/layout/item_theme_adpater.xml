@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.github.ligbyte.theme.base.widget.CoverImageView
+    <com.ligbyte.lib.theme.base.widget.CoverImageView
         android:id="@+id/theme_img"
         android:layout_width="50dp"
         android:layout_height="50dp"

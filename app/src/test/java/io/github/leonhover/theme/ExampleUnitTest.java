@@ -1,4 +1,4 @@
-package com.github.ligbyte.theme;
+package com.ligbyte.lib.theme;
 
 import org.junit.Test;
 

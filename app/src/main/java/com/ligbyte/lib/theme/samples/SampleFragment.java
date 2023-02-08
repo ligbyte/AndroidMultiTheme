@@ -1,4 +1,4 @@
-package com.github.ligbyte.theme.samples;
+package com.ligbyte.lib.theme.samples;
 
 import android.os.Bundle;
 import androidx.annotation.NonNull;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.ligbyte.theme.base.BaseThemeFragment;
+import com.ligbyte.lib.theme.base.BaseThemeFragment;
 
 /**
  * @Author: jeek

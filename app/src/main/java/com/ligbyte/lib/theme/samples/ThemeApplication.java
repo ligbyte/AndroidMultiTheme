@@ -1,8 +1,8 @@
-package com.github.ligbyte.theme.samples;
+package com.ligbyte.lib.theme.samples;
 
 import android.app.Application;
 
-import com.github.ligbyte.theme.MultiTheme;
+import com.ligbyte.lib.theme.MultiTheme;
 
 /**
  * @Author: jeek

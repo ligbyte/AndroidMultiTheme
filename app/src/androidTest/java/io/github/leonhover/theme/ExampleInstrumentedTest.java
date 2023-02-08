@@ -1,4 +1,4 @@
-package com.github.ligbyte.theme;
+package com.ligbyte.lib.theme;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

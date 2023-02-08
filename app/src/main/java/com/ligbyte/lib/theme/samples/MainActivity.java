@@ -1,4 +1,4 @@
-package com.github.ligbyte.theme.samples;
+package com.ligbyte.lib.theme.samples;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -18,11 +18,11 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.github.ligbyte.theme.ActivityTheme;
-import com.github.ligbyte.theme.DarkMode;
-import com.github.ligbyte.theme.MultiTheme;
-import com.github.ligbyte.theme.ThemeUtils;
-import com.github.ligbyte.theme.base.BaseThemeActivity;
+import com.ligbyte.lib.theme.ActivityTheme;
+import com.ligbyte.lib.theme.DarkMode;
+import com.ligbyte.lib.theme.MultiTheme;
+import com.ligbyte.lib.theme.ThemeUtils;
+import com.ligbyte.lib.theme.base.BaseThemeActivity;
 /**
  * @Author: jeek
  * @Date: 2023/2/8

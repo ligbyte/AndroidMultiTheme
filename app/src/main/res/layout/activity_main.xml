@@ -74,7 +74,7 @@
     </LinearLayout>
 
     <fragment
-        android:name="com.github.ligbyte.theme.samples.SampleFragment"
+        android:name="com.ligbyte.lib.theme.samples.SampleFragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 

@@ -1,4 +1,4 @@
-package com.github.ligbyte.theme.samples;
+package com.ligbyte.lib.theme.samples;
 
 import android.content.Context;
 import androidx.recyclerview.widget.RecyclerView;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import com.github.ligbyte.theme.MultiTheme;
-import com.github.ligbyte.theme.base.widget.CoverImageView;
+import com.ligbyte.lib.theme.MultiTheme;
+import com.ligbyte.lib.theme.base.widget.CoverImageView;
 
 /**
  * @Author: jeek

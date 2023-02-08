@@ -1,4 +1,4 @@
-package com.github.ligbyte.theme.samples;
+package com.ligbyte.lib.theme.samples;
 
 /**
  * @Author: jeek
