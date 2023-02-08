@@ -14,8 +14,6 @@ Android-Mulit-Theme可以让轻松地对Android应用添加多主题支持，并
 v1.0.0版本基于android.support.library构建
 v2.0.0版本基于androidx构建
 
- [![Download](https://api.bintray.com/packages/leonhover/android/Android-Multi-Theme/images/download.svg) ](https://bintray.com/leonhover/android/Android-Multi-Theme/_latestVersion)
-
  ![效果图](https://github.com/ligbyte/AndroidMultiTheme/blob/main/demo.gif)
 
 ## 快速使用
