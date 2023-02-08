@@ -144,7 +144,7 @@ public class MainActivity extends BaseThemeActivity {
 
     @Override
     protected void configTheme(ActivityTheme activityTheme) {
-        activityTheme.setThemes(4, new int[]{R.style.AppTheme_Blue, R.style.AppTheme_Red, R.style.AppTheme_Green, R.style.AppTheme_Yellow, R.style.AppTheme_Black});
+        activityTheme.setThemes(new int[]{R.style.AppTheme_Blue, R.style.AppTheme_Red, R.style.AppTheme_Green, R.style.AppTheme_Yellow, R.style.AppTheme_Black});
         activityTheme.setStatusBarColorAttrRes(R.attr.colorPrimary);
         activityTheme.setSupportMenuItemThemeEnable(true);
     }

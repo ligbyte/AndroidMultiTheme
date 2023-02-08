@@ -1,1 +1,1 @@
-include ':app', ':lib_multitheme'
+include ':app', ':lib_theme'

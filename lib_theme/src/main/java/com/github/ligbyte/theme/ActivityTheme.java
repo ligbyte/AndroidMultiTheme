@@ -60,7 +60,7 @@ public class ActivityTheme implements IThemeObserver {
     public final void setThemes(int darkThemeIndex, @StyleRes int[] themes) {
         this.themes = themes;
         this.darkThemeIndex = darkThemeIndex;
-        if (this.darkThemeIndex < 0 || this.darkThemeIndex >= this.themes.length) {
+        if (this.darkThemeIndex < 0 || this.darkThemeIndex >= (this.themes.length - 1)) {
             throw new IllegalArgumentException("please check you param,there ara some error.");
         }
     }

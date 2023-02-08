@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">主题切换</string>
-    <string name="app_description">Android App 支持多主题，无需重新创建 Activity。</string>
+    <string name="app_description">Android App 支持多主题，无需重新创建 Activity。mode </string>
     <string name="button_text">动态更改小部件属性！</string>
     <string name="theme_red_title">红色主题</string>
     <string name="theme_red_description">这孩子喝了他父亲收藏的葡萄酒被当场抓获。</string>
