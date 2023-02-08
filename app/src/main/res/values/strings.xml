@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">主题切换</string>
+    <string name="app_description">Android App 支持多主题，无需重新创建 Activity。</string>
+    <string name="button_text">动态更改小部件属性！</string>
+    <string name="theme_red_title">红色主题</string>
+    <string name="theme_red_description">这孩子喝了他父亲收藏的葡萄酒被当场抓获。</string>
+    <string name="theme_blue_title">蓝色主题</string>
+    <string name="theme_blue_description">新婚公主是皇室的贵族成员。</string>
+    <string name="theme_yellow_title">黄色主题</string>
+    <string name="theme_yellow_description">你不能指望他； 他的背上有一条黄色条纹。</string>
+    <string name="theme_green_title">绿色主题</string>
+    <string name="theme_green_description">可行性研究完成后，CEO 为新项目开了绿灯。</string>
+    <string name="theme_Black_title">黑色主题</string>
+    <string name="theme_Black_description">在儿童文学中，一个角色通常不是全好就是全坏； 这种非黑即白的情况在现实生活中很少存在。</string>
+</resources>

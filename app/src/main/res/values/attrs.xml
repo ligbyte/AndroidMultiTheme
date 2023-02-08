@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Theme">
+        <attr name="title_text_color" format="reference|color"/>
+        <attr name="sub_title_text_color" format="reference|color"/>
+        <attr name="button_text_color" format="reference|color"/>
+        <attr name="button_bg_selector" format="reference"/>
+        <attr name="icon_launcher" format="reference"/>
+        <attr name="icon_change_theme" format="reference"/>
+        <attr name="img_cover_color" format="reference"/>
+        <attr name="progress_indeterminate" format="reference"/>
+        <attr name="progress_horizontal" format="reference"/>
+        <attr name="title_text_style" format="reference"/>
+    </declare-styleable>
+</resources>
